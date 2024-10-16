@@ -24,7 +24,7 @@ Note that we use parameters in our paper:
 --ratio_q: A float between 0 and 1.
 ```
 
-##Ackno
+## Acknowledgements
 This code is based on implementations: https://github.com/xinleihe/GNNStealing and https://github.com/liun-online/SpCo.
 
 
