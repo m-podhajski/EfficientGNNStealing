@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python main.py --task=embedding --surrogate=gat --target=gin --dataset=citeseer_full --type=i --ratio_q=1.0
 ```
 
-Note that we use parameters in our paper:
+Note that we use the following parameters in our paper:
 ```
 --task: ['embedding', 'prediction', 'projection']
 --dataset: ['dblp', 'pubmed', 'citeseer_full', 'coauthor_phy', 'acm', 'amazon_photo']
